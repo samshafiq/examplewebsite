@@ -12,9 +12,6 @@ about:
     - text: GitHub
       icon: github
       href: https://github.com/samshafiq
-    - text: resume
-      icon: file-text
-      href: (/files/resume.pdf){target="_blank"}
 ---
 
 This is a Quarto website.

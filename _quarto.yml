@@ -1,12 +1,10 @@
 project:
   type: website
   output-dir: docs
-  resources: 
-    - files/**
+  resources: resume.pdf
 
 website:
   title: "PA446 Example"
-  site-url: "https://samshafiq.github.io/examplewebsite/"
   navbar:
     left:
       - href: index.qmd
@@ -15,8 +13,8 @@ website:
         text: About
       - href: ExamplePage.qmd
         text: Page3
-      - text: "Resume"
-        href: files/resume.pdf
+      - text: Resume
+        href: resume.pdf
 
 format:
   html:
