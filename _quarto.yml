@@ -15,10 +15,12 @@ website:
 
 format:
   html:
-    theme:
-      - darkly
-    css: styles.css
-    toc: true
-
+    theme: sandstone
+    mainfont: arial
+    fontsize: 1.5rem
+    fontcolor: "#9C3C27"
+    linkcolor: "#ff33f0"
+    monofont: courier new
+      
 editor: visual
 
