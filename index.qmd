@@ -10,9 +10,6 @@ about:
     - text: Email
       icon: envelope
       href: mailto:sshafi7@uic.edu
-    - text: GitHub
-      icon: github
-      href: https://github.com/samshafiq
     - text: resume
       icon: file-text
       href: resume.pdf
