@@ -1,7 +1,6 @@
 ---
 title: "Saman Shafiq"
 image: uicpic.jpg
-resources: resume.pdf
 about:
   template: jolla
   image-shape: round
@@ -15,7 +14,7 @@ about:
       href: https://github.com/samshafiq
     - text: resume
       icon: file-text
-      href: resume.pdf
+      href: (/files/resume.pdf){target="_blank"}
 ---
 
 This is a Quarto website.
