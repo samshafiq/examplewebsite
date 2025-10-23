@@ -1,5 +1,10 @@
 ---
-title: "PA446 Example"
+title: "Saman Shafiq"
+image: uicpic.jpg
+about:
+  template: jolla
+  image-shape: round
+  image-width: 15em
 ---
 
 This is a Quarto website.
